@@ -1,2 +1,2 @@
 # demo
-D&amp;P primes portfolio
+dp-primes-portfolio
